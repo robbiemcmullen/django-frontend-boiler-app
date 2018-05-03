@@ -1,0 +1,115 @@
+/**
+ * Helpers
+ */
+/**  
+ * Import all variables
+ */
+/**
+ * Use to define config variables
+ */
+/**
+ * Use to define color variables
+ */
+/**
+ * Use to define font-size, line-height variables
+ */
+/**
+ * Use to define background-image & background-size variables
+ */
+/**
+ * Root
+ */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/**
+ * Use to define rules for base elements i.e body, h1-h6 and so on....
+ */
+/**
+ * Use to define base grid
+ */
+/**
+ * Use to define font-size, font-weight and line-height for base elements i.e body, h1-h6 and so on
+ */
+/**
+ * Components
+ */
+/**
+ * Use to define button styles
+ */
+/**
+ * Use to define list styles
+ */
+/**
+ * Use to define input styles
+ */
+/**
+ * Use to define table styles
+ */
+/**
+ * Modules
+ */
+/**
+ * Header styles goes here
+ */
+/**
+ * Navigation styles goes here
+ */
+/**
+ * Footer styles goes here
+ */
+/**
+ * Sidebar styles goes here
+ */
+/**
+ * Override, hotifixes
+ */
+/**
+ * File meant for temp css fixes, hot fixes and so on...
+ * Imported at the very end, hence any rules can be overridden
+ */
